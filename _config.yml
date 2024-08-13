@@ -4,8 +4,8 @@ title: "Mediumish"
 description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /arcdesign.github.io
-google_analytics: 'UA-46278016-1'
+baseurl: /
+google_analytics: ''
 disqus: 'demowebsite'
 mailchimp-list: ''
 include: ["_pages"]
