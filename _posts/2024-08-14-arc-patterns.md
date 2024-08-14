@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solution Architecture Patterns"
-author: Souvik
+author: souvik
 categories: [ architecture, patterns ]
 image: assets/images/arcseries.png
 beforetoc: "Note below a general list of pattern oriented pointers, not everything is applicable for all types of systems. Choose as per your system design needs !"
@@ -11,7 +11,7 @@ hidden: true
 ---
 
 ~
-### **1. General Architectural Patterns**
+### **General Architectural Patterns**
 
 **Checklist:**
 
@@ -38,7 +38,7 @@ hidden: true
 - How are dependencies managed within the architecture?
 
 ~
-### **2. On-Premise Application Considerations**
+### **On-Premise Application Considerations**
 
 **Checklist:**
 
@@ -65,7 +65,7 @@ hidden: true
 - How does the architecture ensure data and application security in an on-premise environment?
 
 ~
-### **3. Cloud-Based Application Considerations**
+### **Cloud-Based Application Considerations**
 
 **Checklist:**
 
@@ -92,7 +92,7 @@ hidden: true
 - What strategies are in place for hybrid or multi-cloud deployments?
 
 ~
-### **4. Microservices and SOA**
+### **Microservices and SOA**
 
 **Checklist:**
 
@@ -119,7 +119,7 @@ hidden: true
 - What challenges have been encountered with microservices, and how are they addressed?
 
 ~
-### **5. Event-Driven Architecture**
+### **Event-Driven Architecture**
 
 **Checklist:**
 
@@ -146,7 +146,7 @@ hidden: true
 - What are the benefits and challenges of using an event-driven architecture in this system?
 
 ~
-### **6. Security Best Practices**
+### **Security Best Practices**
 
 **Checklist:**
 
@@ -173,7 +173,7 @@ hidden: true
 - How does the architecture ensure compliance with security regulations and standards?
 
 ~
-### **7. DevOps and Continuous Integration/Continuous Deployment (CI/CD)**
+### **DevOps and Continuous Integration/Continuous Deployment (CI/CD)**
 
 **Checklist:**
 
@@ -200,7 +200,7 @@ hidden: true
 - What strategies are in place for rollbacks and disaster recovery during deployment?
 
 ~
-### **8. Modularity and Reusability**
+### **Modularity and Reusability**
 
 **Checklist:**
 
@@ -227,7 +227,7 @@ hidden: true
 - What practices are in place to ensure consistency across reusable components?
 
 ~
-### **9. Monitoring and Observability**
+### **Monitoring and Observability**
 
 **Checklist:**
 

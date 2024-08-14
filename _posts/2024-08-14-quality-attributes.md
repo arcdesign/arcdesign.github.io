@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SARF - Quality Attributes"
-author: Souvik
-categories: [ Architecture, Quality Attributes ]
+title:  "Quality Attributes"
+author: souvik
+categories: [ architecture, Quality Attributes ]
 image: assets/images/arcseries.png
 featured: true
 hidden: true

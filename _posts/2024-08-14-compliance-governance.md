@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Compliance and Governance review"
-author: Souvik
+author: souvik
 categories: [ architecture,governance, compliance ]
 image: assets/images/arcseries.png
 ---
