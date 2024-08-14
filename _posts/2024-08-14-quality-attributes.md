@@ -8,8 +8,6 @@ featured: true
 hidden: true
 ---
 
-
-
 ## Quality Attributes review
 
 ### 1. **Performance**

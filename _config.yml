@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Psychedelic Inspiration"
+title: "Psychedelic Inspiration"
+description: "Technology, Life and Everything in Between"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -13,13 +13,13 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  souvik:
     name: Souvik
     display_name: Souvik
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: talkativeserious@gmail.com
     web: https://souvikg.com
-    twitter: https://twitter.com/wowthemesnet
+    #twitter: https://twitter.com/wowthemesnet
     description: "Author of SouvikG.com, a tech enthusiast and a kiddish Dad ! I love to tinker with my grey matter. You are currently previewing my journal, where i note down my figments of imagination"
   
 
