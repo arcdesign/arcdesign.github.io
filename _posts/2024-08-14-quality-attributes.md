@@ -14,7 +14,7 @@ hidden: true
 
 **Checklist:**
 
-- [ ] Are performance requirements (e.g., response time, throughput) clearly defined?
+[ ] Are performance requirements (e.g., response time, throughput) clearly defined?
 
 - [ ] Are there any performance benchmarks or metrics currently in place?
 
