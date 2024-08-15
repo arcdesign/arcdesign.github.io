@@ -14,18 +14,12 @@ hidden: true
 
 **Checklist:**
 
-[ ] Are performance requirements (e.g., response time, throughput) clearly defined?
-
+- [ ] Are performance requirements (e.g., response time, throughput) clearly defined?
 - [ ] Are there any performance benchmarks or metrics currently in place?
-
 - [ ] Is the system designed to handle peak loads?
-
 - [ ] Are there mechanisms for load balancing and resource optimization?
-
 - [ ] Is caching implemented effectively?
-
 - [ ] Are database queries optimized for performance?
-
 - [ ] Are there monitoring tools in place for real-time performance analysis?
 
 **Questionnaire:**
