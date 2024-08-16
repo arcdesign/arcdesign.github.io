@@ -4,7 +4,6 @@ title:  "Quality Attributes"
 author: souvik
 categories: [ architecture, Quality Attributes ]
 image: assets/images/arcseries.png
-featured: true
 hidden: true
 ---
 
