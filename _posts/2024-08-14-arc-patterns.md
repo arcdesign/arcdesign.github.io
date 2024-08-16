@@ -13,10 +13,10 @@ hidden: true
 ### **General Architectural Patterns**
 
 **Checklist:**
-<ul class="ck ck-todolist">
-  <li class="ck-todolist__item">
-    <span class="ck-todolist__item-checkbox"></span>
-    <span class="ck-todolist__item-content">Create a strong device passcode</span>
+<ul>
+  <li>
+     <input type="checkbox" checked>
+     Foo
   </li>
 </ul>
 - [ ] Is the architecture pattern (e.g., Monolithic, Microservices, SOA, Event-Driven) clearly defined and documented?
