@@ -13,13 +13,18 @@ hidden: true
 ### **General Architectural Patterns**
 
 **Checklist:**
-<li>
+<ul class="ck ck-todolist">
+  <li class="ck-todolist__item">
+    <span class="ck-todolist__item-checkbox"></span>
+    <span class="ck-todolist__item-content">Create a strong device passcode</span>
+  </li>
+</ul>
 - [ ] Is the architecture pattern (e.g., Monolithic, Microservices, SOA, Event-Driven) clearly defined and documented?
 - [ ] Is the chosen pattern appropriate for the business and technical requirements?
 - [ ] Are design decisions around architectural patterns justified with pros and cons?
 - [ ] Is the architecture flexible enough to accommodate future changes or scaling needs?
 - [ ] Is there a clear separation of concerns (e.g., Presentation Layer, Business Logic, Data Access)?
-</li>
+
 **Questionnaire:**
 
 - What architectural pattern is being used, and why was it chosen?
