@@ -13,12 +13,7 @@ hidden: true
 ### **General Architectural Patterns**
 
 **Checklist:**
-<ul>
-  <li>
-     <input type="checkbox" checked>
-     Foo
-  </li>
-</ul>
+
 - [ ] Is the architecture pattern (e.g., Monolithic, Microservices, SOA, Event-Driven) clearly defined and documented?
 - [ ] Is the chosen pattern appropriate for the business and technical requirements?
 - [ ] Are design decisions around architectural patterns justified with pros and cons?
