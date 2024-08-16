@@ -10,4 +10,4 @@ hidden: true
 ---
 
 
-[Quality Attributes](/Quality Attributes)
+[Quality Attributes](/quality-attributes)
