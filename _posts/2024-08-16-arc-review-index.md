@@ -10,4 +10,4 @@ hidden: true
 ---
 
 
-[Quality Attributes](/arcseries/arc-review/2024-08-14-quality-attributes)
+[Quality Attributes](/Quality Attributes)
